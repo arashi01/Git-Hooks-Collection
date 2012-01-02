@@ -1,0 +1,4 @@
+#!/bin/bash
+
+~/git/agilefant/.git/hooks/rtc.sh post-commit.perl 1 $@
+
